@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../images/img11.jpg",
+    "alt": "Mumbai",
+    "name": "Mumbai",
+    "button": "More Info"
+  },
+  {
+    "img": "../images/img12.jpg",
+    "alt": "Kochi",
+    "name": "Kochi",
+    "button": "More Info"
+  },
+  {
+    "img": "../images/img13.jpg",
+    "alt": "Delhi",
+    "name": "Delhi",
+    "button": "More Info"
+  },
+  {
+    "img": "../images/img14.jpg",
+    "alt": "Chennai",
+    "name": "Chennai",
+    "button": "More Info"
+  }
+]
